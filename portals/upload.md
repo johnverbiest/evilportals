@@ -1,0 +1,1 @@
+pscp -r facebook-login\ root@172.16.42.1:/root/portals/facebook-login/
